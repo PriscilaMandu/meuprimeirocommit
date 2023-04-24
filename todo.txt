@@ -4,3 +4,4 @@ Lista de estudos
 3- Javascript
 4- Angular
 5- React
+6- Flexbox
